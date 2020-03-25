@@ -6,7 +6,6 @@
 東京都新型コロナウイルス対策サイトリポジトリ: https://github.com/tokyo-metropolitan-gov/covid19
 関連サイト一覧: https://github.com/tokyo-metropolitan-gov/covid19/blob/development/FORKED_SITES.md
 
-
 ## Build Setup
 
 ```bash
@@ -23,5 +22,8 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
+
+# ライセンス
+地図: https://www.kabipan.com/geography/whitemap/
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).

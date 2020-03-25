@@ -1,13 +1,12 @@
 <template>
   <div class="container">
     <div>
-      <!-- <logo /> -->
       <h1 class="title">
-        stopcovid19japan
+        {{ $t('title') }}
       </h1>
-      <h2 class="subtitle">
+      <!-- <h2 class="subtitle">
         All prefectures stop covid19 websites
-      </h2>
+      </h2> -->
       <japan-map />
       <div class="links">
         <a
@@ -30,12 +29,10 @@
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
 import JapanMap from '~/components/JapanMap.vue'
 
 export default {
   components: {
-    Logo,
     JapanMap
   }
 }
