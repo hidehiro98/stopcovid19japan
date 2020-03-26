@@ -1,3 +1,5 @@
+const siteName = '全国の新型コロナウイルス対策サイト'
+const siteDesc = '東京都のサイトを元に作られた各都道府県のサイトをまとめています。'
 
 export default {
   mode: 'universal',
@@ -5,11 +7,12 @@ export default {
   ** Headers of the page
   */
   head: {
-    title: process.env.npm_package_name || '',
+    title: siteName,
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
+      { hid: 'description', name: 'description', content: siteDesc },
+      { hid: 'og:image', property: 'og:image', content: '/ogp.png' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
