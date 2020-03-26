@@ -7,6 +7,15 @@
       <!-- <h2 class="subtitle">
         All prefectures stop covid19 websites
       </h2> -->
+      <div>
+        <nuxt-link :to="switchLocalePath('ja')">日本語</nuxt-link>
+      </div>
+      <div>
+        <nuxt-link :to="switchLocalePath('ja-basic')">やさしいにほんご</nuxt-link>
+      </div>
+      <div>
+        <nuxt-link :to="switchLocalePath('en')">English</nuxt-link>
+      </div>
       <japan-map />
       <div class="links">
         <a
@@ -56,6 +65,12 @@ export default {
   font-size: 30px;
   color: #35495e;
   letter-spacing: 1px;
+}
+
+@media screen and (min-width: 768px) {
+  .title {
+    width: 600px;
+  }
 }
 
 .subtitle {
