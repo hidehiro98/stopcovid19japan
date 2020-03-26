@@ -18,7 +18,7 @@ export default {
       { hid: 'og:title', property: 'og:title', content: siteName },
       { hid: 'og:description', property: 'og:description', content: siteDesc },
       { hid: 'og:image', property: 'og:image', content: '/ogp.png' },
-      { name: 'twitter:card', content: '/ogp.png' },
+      { name: 'twitter:card', content: 'summary_large_image' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
