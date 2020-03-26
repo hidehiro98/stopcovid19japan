@@ -24,6 +24,6 @@ $ yarn generate
 ```
 
 # ライセンス
-地図: https://www.kabipan.com/geography/whitemap/
+地図: http://www.inqsite.net/weblog/4417/
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).

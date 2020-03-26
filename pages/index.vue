@@ -10,14 +10,14 @@
       <japan-map />
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://github.com/tokyo-metropolitan-gov/covid19/blob/development/FORKED_SITES.md"
           target="_blank"
           class="button--green"
         >
-          Documentation
+          Based on
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/hidehiro98/stopcovid19japan"
           target="_blank"
           class="button--grey"
         >

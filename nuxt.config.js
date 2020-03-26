@@ -79,8 +79,6 @@ export default {
             file: 'ko.json',
             description: 'Korean'
           },
-          // #1126, #872 (comment)
-          // ポルトガル語は訳が揃っていないため非表示
           // {
           //   code: 'pt-BR',
           //   name: 'Portuguese',
