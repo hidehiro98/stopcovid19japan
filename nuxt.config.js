@@ -9,7 +9,7 @@ export default {
   head: {
     title: siteName,
     htmlAttrs: {
-      lang: 'ja'
+      hreflang: 'ja'
     },
     meta: [
       { charset: 'utf-8' },
