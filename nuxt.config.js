@@ -8,9 +8,6 @@ export default {
   */
   head: {
     title: siteName,
-    htmlAttrs: {
-      hreflang: 'ja'
-    },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -53,6 +50,7 @@ export default {
     [
       'nuxt-i18n',
       {
+        seo: true,
         strategy: 'prefix_and_default',
         // 切り替える言語を定義
         locales: [
