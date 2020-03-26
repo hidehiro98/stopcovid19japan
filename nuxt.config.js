@@ -50,6 +50,7 @@ export default {
     [
       'nuxt-i18n',
       {
+        baseUrl: 'https://stopcovid19japan.com/',
         seo: true,
         strategy: 'prefix_and_default',
         // 切り替える言語を定義
