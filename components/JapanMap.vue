@@ -21,32 +21,32 @@
     <li><a href="https://stopcovid19.yamanashi.dev/" target="_blank">{{ $t('yamanashi') }}</a></li>
     <li><a href="https://stop-covid19-nagano.netlify.com/" target="_blank">{{ $t('nagano') }}</a></li>
     <li><a href="https://covid19-gifu.netlify.com/" target="_blank">{{ $t('gifu') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('shizuoka') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('aichi') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('mie') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('shiga') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('kyoto') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('osaka') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('hyogo') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('nara') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('wakayama') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('tottori') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('shimane') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('okayama') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('hiroshima') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('yamaguchi') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('tokushima') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('kagawa') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('ehime') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('kochi') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('hukuoka') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('saga') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('nagasaki') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('kumamoto') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('oita') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('miyazaki') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('kagoshima') }}</a></li>
-    <li><a href="#" target="_blank">{{ $t('okinawa') }}</a></li>
+    <li><a target="_blank">{{ $t('shizuoka') }}</a></li>
+    <li><a href="https://stopcovid19.code4.nagoya/" target="_blank">{{ $t('aichi') }}</a></li>
+    <li><a href="https://covid19-mie.netlify.com/" target="_blank">{{ $t('mie') }}</a></li>
+    <li><a href="https://stopcovid19.pref.shiga.jp/" target="_blank">{{ $t('shiga') }}</a></li>
+    <li><a href="https://stopcovid19-kyoto.netlify.com/" target="_blank">{{ $t('kyoto') }}</a></li>
+    <li><a href="https://covid19-osaka.info/" target="_blank">{{ $t('osaka') }}</a></li>
+    <li><a href="https://stop-covid19-hyogo.org/" target="_blank">{{ $t('hyogo') }}</a></li>
+    <li><a href="https://stopcovid19.code4nara.org/" target="_blank">{{ $t('nara') }}</a></li>
+    <li><a target="_blank">{{ $t('wakayama') }}</a></li>
+    <li><a target="_blank">{{ $t('tottori') }}</a></li>
+    <li><a target="_blank">{{ $t('shimane') }}</a></li>
+    <li><a href="https://okayama.stopcovid19.jp/" target="_blank">{{ $t('okayama') }}</a></li>
+    <li><a href="https://covid19-hiroshima.netlify.com/" target="_blank">{{ $t('hiroshima') }}</a></li>
+    <li><a href="https://covid19-yamaguchi.netlify.com/" target="_blank">{{ $t('yamaguchi') }}</a></li>
+    <li><a target="_blank">{{ $t('tokushima') }}</a></li>
+    <li><a href="https://covid19-kagawa.netlify.com/" target="_blank">{{ $t('kagawa') }}</a></li>
+    <li><a href="https://ehime-covid19.com/" target="_blank">{{ $t('ehime') }}</a></li>
+    <li><a href="https://covid19-kochi.netlify.com/" target="_blank">{{ $t('kochi') }}</a></li>
+    <li><a href="https://stopcovid19.codeforfukuoka.org/" target="_blank">{{ $t('hukuoka') }}</a></li>
+    <li><a target="_blank">{{ $t('saga') }}</a></li>
+    <li><a href="https://stopcovid19-nagasaki.netlify.com/" target="_blank">{{ $t('nagasaki') }}</a></li>
+    <li><a href="https://stop-covid19-kumamoto.netlify.com/" target="_blank">{{ $t('kumamoto') }}</a></li>
+    <li><a href="https://oita.stopcovid19.jp/" target="_blank">{{ $t('oita') }}</a></li>
+    <li><a target="_blank">{{ $t('miyazaki') }}</a></li>
+    <li><a href="https://covid19.codeforkagoshima.dev/en" target="_blank">{{ $t('kagoshima') }}</a></li>
+    <li><a target="_blank">{{ $t('okinawa') }}</a></li>
   </ul>
 </template>
 <style>
@@ -184,108 +184,108 @@ ul.jp_map a {
 }
 
 .jp_map li:nth-child(22) a {
-  background-color: #7cdc92;
+  background-color: #DDDDDD;
 }
 
 .jp_map li:nth-child(23) a {
-  background-color: #7cdc92;
+  background-color: #A83945;
 }
 
 .jp_map li:nth-child(24) a {
-  background-color: #ffe966;
+  background-color: #FF7438;
 }
 
 .jp_map li:nth-child(25) a {
-  background-color: #ffe966;
+  background-color: #00B7FF;
 }
 
 .jp_map li:nth-child(26) a {
-  background-color: #ffe966;
+  background-color: #008549;
 }
 
 .jp_map li:nth-child(27) a {
-  background-color: #ffe966;
+  background-color: #1E219A;
 }
 
 .jp_map li:nth-child(28) a {
   height: 20%;
-  background-color: #ffe966;
+  background-color: #00A0C7;
 }
 
 .jp_map li:nth-child(29) a {
-  background-color: #ffe966;
+  background-color: #7B3551;
 }
 
 .jp_map li:nth-child(30) a {
-  background-color: #ffe966;
+  background-color: #DDDDDD;
 }
 
 .jp_map li:nth-child(31) a {
-  background-color: #ffcc66;
+  background-color: #DDDDDD;
 }
 
 .jp_map li:nth-child(32) a {
-  background-color: #ffcc66;
+  background-color: #DDDDDD;
 }
 
 .jp_map li:nth-child(33) a {
-  background-color: #ffcc66;
+  background-color: #EB4079;
 }
 
 .jp_map li:nth-child(34) a {
-  background-color: #ffcc66;
+  background-color: #992F3B;
 }
 
 .jp_map li:nth-child(35) a {
-  background-color: #ffcc66;
+  background-color: #13B840;
 }
 
 .jp_map li:nth-child(36) a {
-  background-color: #ffbb9c;
+  background-color: #DDDDDD;
 }
 
 .jp_map li:nth-child(37) a {
-  background-color: #ffbb9c;
+  background-color: #25A69A;
 }
 
 .jp_map li:nth-child(38) a {
-  background-color: #ffbb9c;
+  background-color: #FA8900;
 }
 
 .jp_map li:nth-child(39) a {
-  background-color: #ffbb9c;
+  background-color: #F44335;
 }
 
 .jp_map li:nth-child(40) a {
-  background-color: #ffbdbd;
+  background-color: #2F2A60;
 }
 
 .jp_map li:nth-child(41) a {
-  background-color: #ffbdbd;
+  background-color: #DDDDDD;
 }
 
 .jp_map li:nth-child(42) a {
-  background-color: #ffbdbd;
+  background-color: #8C2943;
 }
 
 .jp_map li:nth-child(43) a {
-  background-color: #ffbdbd;
+  background-color: #A4292C;
 }
 
 .jp_map li:nth-child(44) a {
-  background-color: #ffbdbd;
+  background-color: #009A01;
 }
 
 .jp_map li:nth-child(45) a {
-  background-color: #ffbdbd;
+  background-color: #DDDDDD;
 }
 
 .jp_map li:nth-child(46) a {
-  background-color: #ffbdbd;
+  background-color: #E5752A;
 }
 
 .jp_map li:nth-child(47) a {
-  background-color: #f5c9ff;
+  background-color: #DDDDDD;
 }
 
 @media screen and (min-width: 768px) {
@@ -463,42 +463,42 @@ ul.jp_map a {
     left: 71%;
     position: absolute;
     top: 66.5%;
-    background-color: #7cdc92;
+    background-color: #DDDDDD;
   }
 
   .jp_map li:nth-child(23) a {
     left: 64%;
     position: absolute;
     top: 66.5%;
-    background-color: #7cdc92;
+    background-color: #A83945;
   }
 
   .jp_map li:nth-child(24) a {
     left: 57%;
     position: absolute;
     top: 66.5%;
-    background-color: #ffe966;
+    background-color: #FF7438;
   }
 
   .jp_map li:nth-child(25) a {
     left: 57%;
     position: absolute;
     top: 46.5%;
-    background-color: #ffe966;
+    background-color: #00B7FF;
   }
 
   .jp_map li:nth-child(26) a {
     left: 50%;
     position: absolute;
     top: 46.5%;
-    background-color: #ffe966;
+    background-color: #008549;
   }
 
   .jp_map li:nth-child(27) a {
     left: 50%;
     position: absolute;
     top: 56.5%;
-    background-color: #ffe966;
+    background-color: #1E219A;
   }
 
   .jp_map li:nth-child(28) a {
@@ -506,140 +506,140 @@ ul.jp_map a {
     position: absolute;
     top: 46.5%;
     height: 20%;
-    background-color: #ffe966;
+    background-color: #00A0C7;
   }
 
   .jp_map li:nth-child(29) a {
     left: 57%;
     position: absolute;
     top: 56.5%;
-    background-color: #ffe966;
+    background-color: #7B3551;
   }
 
   .jp_map li:nth-child(30) a {
     left: 50%;
     position: absolute;
     top: 66.5%;
-    background-color: #ffe966;
+    background-color: #DDDDDD;
   }
 
   .jp_map li:nth-child(31) a {
     left: 36%;
     position: absolute;
     top: 46.5%;
-    background-color: #ffcc66;
+    background-color: #DDDDDD;
   }
 
   .jp_map li:nth-child(32) a {
     left: 29%;
     position: absolute;
     top: 46.5%;
-    background-color: #ffcc66;
+    background-color: #DDDDDD;
   }
 
   .jp_map li:nth-child(33) a {
     left: 36%;
     position: absolute;
     top: 56.5%;
-    background-color: #ffcc66;
+    background-color: #EB4079;
   }
 
   .jp_map li:nth-child(34) a {
     left: 29%;
     position: absolute;
     top: 56.5%;
-    background-color: #ffcc66;
+    background-color: #992F3B;
   }
 
   .jp_map li:nth-child(35) a {
     left: 22%;
     position: absolute;
     top: 51.5%;
-    background-color: #ffcc66;
+    background-color: #13B840;
   }
 
   .jp_map li:nth-child(36) a {
     left: 36%;
     position: absolute;
     top: 78.5%;
-    background-color: #ffbb9c;
+    background-color: #DDDDDD;
   }
 
   .jp_map li:nth-child(37) a {
     left: 36%;
     position: absolute;
     top: 68.5%;
-    background-color: #ffbb9c;
+    background-color: #25A69A;
   }
 
   .jp_map li:nth-child(38) a {
     left: 29%;
     position: absolute;
     top: 68.5%;
-    background-color: #ffbb9c;
+    background-color: #FA8900;
   }
 
   .jp_map li:nth-child(39) a {
     left: 29%;
     position: absolute;
     top: 78.5%;
-    background-color: #ffbb9c;
+    background-color: #F44335;
   }
 
   .jp_map li:nth-child(40) a {
     left: 14%;
     position: absolute;
     top: 46.5%;
-    background-color: #ffbdbd;
+    background-color: #2F2A60;
   }
 
   .jp_map li:nth-child(41) a {
     left: 7%;
     position: absolute;
     top: 46.5%;
-    background-color: #ffbdbd;
+    background-color: #DDDDDD;
   }
 
   .jp_map li:nth-child(42) a {
     left: 0;
     position: absolute;
     top: 46.5%;
-    background-color: #ffbdbd;
+    background-color: #8C2943;
   }
 
   .jp_map li:nth-child(43) a {
     left: 7%;
     position: absolute;
     top: 56.5%;
-    background-color: #ffbdbd;
+    background-color: #A4292C;
   }
 
   .jp_map li:nth-child(44) a {
     left: 14%;
     position: absolute;
     top: 56.5%;
-    background-color: #ffbdbd;
+    background-color: #009A01;
   }
 
   .jp_map li:nth-child(45) a {
     left: 14%;
     position: absolute;
     top: 66.5%;
-    background-color: #ffbdbd;
+    background-color: #DDDDDD;
   }
 
   .jp_map li:nth-child(46) a {
     left: 7%;
     position: absolute;
     top: 66.5%;
-    background-color: #ffbdbd;
+    background-color: #E5752A;
   }
 
   .jp_map li:nth-child(47) a {
     left: 0;
     position: absolute;
     top: 76.5%;
-    background-color: #f5c9ff;
+    background-color: #DDDDDD;
   }
 }
 </style>
