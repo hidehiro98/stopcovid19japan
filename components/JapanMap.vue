@@ -95,7 +95,7 @@ ul.jp_map a {
 
 .jp_map li a:hover {
   text-decoration: none;
-  opacity: 80%;
+  opacity: 0.8;
 }
 
 .jp_map li:nth-child(1) a {
@@ -304,7 +304,7 @@ ul.jp_map a {
   }
   .jp_map li a:hover {
     text-decoration: none;
-    opacity: 80%;
+    opacity: 0.8;
   }
   .jp_map li:nth-child(1) a {
     position: absolute;
