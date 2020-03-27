@@ -19,6 +19,7 @@ export default {
       { hid: 'og:title', property: 'og:title', content: siteName },
       { hid: 'og:description', property: 'og:description', content: siteDesc },
       { hid: 'og:image', property: 'og:image', content: 'https://stopcovid19japan.com/ogp.png' },
+      { hid: 'fb:app_id', property: 'fb:app_id', content: 'appIDを入力' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
