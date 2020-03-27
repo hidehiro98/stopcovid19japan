@@ -131,7 +131,7 @@ ul.jp_map a {
 }
 
 .jp_map li:nth-child(9) a {
-  background-color: #DDDDDD;
+  background-color: #00A040;
 }
 
 .jp_map li:nth-child(10) a {
@@ -370,7 +370,7 @@ ul.jp_map a {
     position: absolute;
     top: 46.5%;
     left: 85%;
-    background-color: #DDDDDD;
+    background-color: #00A040;
   }
 
   .jp_map li:nth-child(10) a {
