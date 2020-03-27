@@ -297,10 +297,11 @@ ul.jp_map a {
     height: 10%;
     border: solid #ffffff 2px;
     box-sizing: border-box;
-    padding: 2px 0;
+    padding: 2px 2px;
     float: none;
     font-size: 12px;
     margin: 0;
+    word-break: break-all;
   }
   .jp_map li a:hover {
     text-decoration: none;
