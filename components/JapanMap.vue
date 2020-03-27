@@ -8,7 +8,7 @@
     <li><a target="_blank">{{ $t('yamagata') }}</a></li>
     <li><a href="https://fukushima-covid19.firebaseapp.com/" target="_blank">{{ $t('hukushima') }}</a></li>
     <li><a href="https://covid19-ibaraki.netlify.com/" target="_blank">{{ $t('ibaraki') }}</a></li>
-    <li><a target="_blank">{{ $t('tochigi') }}</a></li>
+    <li><a href="https://covid19-tochigi.netlify.com/" target="_blank">{{ $t('tochigi') }}</a></li>
     <li><a href="https://stopcovid19-gunma.netlify.com/" target="_blank">{{ $t('gumma') }}</a></li>
     <li><a href="https://saitama.stopcovid19.jp/" target="_blank">{{ $t('saitama') }}</a></li>
     <li><a href="https://chiba-covid19.mypl.net/" target="_blank">{{ $t('chiba') }}</a></li>
