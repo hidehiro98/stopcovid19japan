@@ -2,7 +2,7 @@
   <ul class="jp_map">
     <li><a href="https://stopcovid19.hokkaido.dev/" target="_blank">{{ $t('hokkaido') }}</a></li>
     <li><a href="https://covid19.codeforaomori.org/" target="_blank">{{ $t('aomori') }}</a></li>
-    <li><a href="https://covid19-iwate.netlify.com/" target="_blank">{{ $t('iwate') }}</a></li>
+    <li><a href="https://iwate.stopcovid19.jp/" target="_blank">{{ $t('iwate') }}</a></li>
     <li><a href="https://miyagi.stopcovid19.jp/" target="_blank">{{ $t('miyagi') }}</a></li>
     <li><a target="_blank">{{ $t('akita') }}</a></li>
     <li><a target="_blank">{{ $t('yamagata') }}</a></li>
