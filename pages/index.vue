@@ -18,6 +18,12 @@
       <div>
         <nuxt-link :to="switchLocalePath('en')">English</nuxt-link>
       </div>
+      <div>
+        <nuxt-link :to="switchLocalePath('zh-cn')">简体中文</nuxt-link>
+      </div>
+      <div>
+        <nuxt-link :to="switchLocalePath('zh-tw')">繁體中文</nuxt-link>
+      </div>
       <div class="links">
         <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <div class="fb-share-button" data-href="https://stopcovid19japan.com/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fstopcovid19japan.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">シェア</a></div>
