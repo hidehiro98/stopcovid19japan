@@ -42,7 +42,7 @@
     <li><a href="https://stopcovid19.codeforfukuoka.org/" target="_blank">{{ $t('hukuoka') }}</a></li>
     <li><a target="_blank">{{ $t('saga') }}</a></li>
     <li><a href="https://stopcovid19-nagasaki.netlify.com/" target="_blank">{{ $t('nagasaki') }}</a></li>
-    <li><a href="https://stop-covid19-kumamoto.netlify.com/" target="_blank">{{ $t('kumamoto') }}</a></li>
+    <li><a href="https://kumamoto.stopcovid19.jp/" target="_blank">{{ $t('kumamoto') }}</a></li>
     <li><a href="https://oita.stopcovid19.jp/" target="_blank">{{ $t('oita') }}</a></li>
     <li><a target="_blank">{{ $t('miyazaki') }}</a></li>
     <li><a href="https://covid19.codeforkagoshima.dev/en" target="_blank">{{ $t('kagoshima') }}</a></li>
