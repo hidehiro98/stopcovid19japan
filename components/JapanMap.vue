@@ -16,7 +16,7 @@
     <li><a href="https://www.pref.kanagawa.jp/osirase/1369/" target="_blank">{{ $t('kanagawa') }}</a></li>
     <li><a href="https://niigata.stopcovid19.jp/" target="_blank">{{ $t('nigata') }}</a></li>
     <li><a target="_blank">{{ $t('toyama') }}</a></li>
-    <li><a target="_blank">{{ $t('ishikawa') }}</a></li>
+    <li><a href="https://ishikawa-covid19.netlify.com/" target="_blank">{{ $t('ishikawa') }}</a></li>
     <li><a href="https://covid19-fukui.bosai-signal.jp/" target="_blank">{{ $t('hukui') }}</a></li>
     <li><a href="https://stopcovid19.yamanashi.dev/" target="_blank">{{ $t('yamanashi') }}</a></li>
     <li><a href="https://stop-covid19-nagano.netlify.com/" target="_blank">{{ $t('nagano') }}</a></li>
@@ -163,7 +163,7 @@ ul.jp_map a {
 }
 
 .jp_map li:nth-child(17) a {
-  background-color: #DDDDDD;
+  background-color: #00A03F;
 }
 
 .jp_map li:nth-child(18) a {
@@ -428,7 +428,7 @@ ul.jp_map a {
     position: absolute;
     top: 36.5%;
     left: 64%;
-    background-color: #DDDDDD;
+    background-color: #00A03F;
   }
 
   .jp_map li:nth-child(18) a {
