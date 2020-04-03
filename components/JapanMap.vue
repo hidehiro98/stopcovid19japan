@@ -5,7 +5,7 @@
     <li><a href="https://iwate.stopcovid19.jp/" target="_blank">{{ $t('iwate') }}</a></li>
     <li><a href="https://miyagi.stopcovid19.jp/" target="_blank">{{ $t('miyagi') }}</a></li>
     <li><a target="_blank">{{ $t('akita') }}</a></li>
-    <li><a target="_blank">{{ $t('yamagata') }}</a></li>
+    <li><a href='https://stopcovid19-yamagata.netlify.com/' target="_blank">{{ $t('yamagata') }}</a></li>
     <li><a href="https://fukushima-covid19.firebaseapp.com/" target="_blank">{{ $t('hukushima') }}</a></li>
     <li><a href="https://covid19-ibaraki.netlify.com/" target="_blank">{{ $t('ibaraki') }}</a></li>
     <li><a href="https://covid19-tochigi.netlify.com/" target="_blank">{{ $t('tochigi') }}</a></li>
@@ -31,7 +31,7 @@
     <li><a href="https://stopcovid19.code4nara.org/" target="_blank">{{ $t('nara') }}</a></li>
     <li><a target="_blank">{{ $t('wakayama') }}</a></li>
     <li><a target="_blank">{{ $t('tottori') }}</a></li>
-    <li><a target="_blank">{{ $t('shimane') }}</a></li>
+    <li><a href='https://shimane-covid19.netlify.com/' target="_blank">{{ $t('shimane') }}</a></li>
     <li><a href="https://okayama.stopcovid19.jp/" target="_blank">{{ $t('okayama') }}</a></li>
     <li><a href="https://covid19-hiroshima.netlify.com/" target="_blank">{{ $t('hiroshima') }}</a></li>
     <li><a href="https://covid19-yamaguchi.netlify.com/" target="_blank">{{ $t('yamaguchi') }}</a></li>
@@ -119,7 +119,7 @@ ul.jp_map a {
 }
 
 .jp_map li:nth-child(6) a {
-  background-color: #DDDDDD;
+  background-color: #63DC76;
 }
 
 .jp_map li:nth-child(7) a {
@@ -225,7 +225,7 @@ ul.jp_map a {
 }
 
 .jp_map li:nth-child(32) a {
-  background-color: #DDDDDD;
+  background-color: #92C3DC;
 }
 
 .jp_map li:nth-child(33) a {
@@ -350,7 +350,7 @@ ul.jp_map a {
     position: absolute;
     top: 26.5%;
     left: 85%;
-    background-color: #DDDDDD;
+    background-color: #63DC76;
   }
 
   .jp_map li:nth-child(7) a {
@@ -535,7 +535,7 @@ ul.jp_map a {
     left: 29%;
     position: absolute;
     top: 46.5%;
-    background-color: #DDDDDD;
+    background-color: #92C3DC;
   }
 
   .jp_map li:nth-child(33) a {
