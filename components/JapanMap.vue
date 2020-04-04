@@ -46,7 +46,7 @@
     <li><a href="https://oita.stopcovid19.jp/" target="_blank">{{ $t('oita') }}</a></li>
     <li><a href="https://covid19-miyazaki.netlify.com/" target="_blank">{{ $t('miyazaki') }}</a></li>
     <li><a href="https://covid19.codeforkagoshima.dev/" target="_blank">{{ $t('kagoshima') }}</a></li>
-    <li><a target="_blank">{{ $t('okinawa') }}</a></li>
+    <li><a href="https://okinawa.stopcovid19.jp/" target="_blank">{{ $t('okinawa') }}</a></li>
   </ul>
 </template>
 <style>
@@ -285,7 +285,7 @@ ul.jp_map a {
 }
 
 .jp_map li:nth-child(47) a {
-  background-color: #DDDDDD;
+  background-color: #FF0000;
 }
 
 @media screen and (min-width: 768px) {
@@ -640,7 +640,7 @@ ul.jp_map a {
     left: 0;
     position: absolute;
     top: 76.5%;
-    background-color: #DDDDDD;
+    background-color: #FF0000;
   }
 }
 </style>
