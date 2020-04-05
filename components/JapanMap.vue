@@ -39,7 +39,7 @@
     <li><a href="https://covid19-kagawa.netlify.com/" target="_blank">{{ $t('kagawa') }}</a></li>
     <li><a href="https://ehime-covid19.com/" target="_blank">{{ $t('ehime') }}</a></li>
     <li><a href="https://covid19-kochi.netlify.com/" target="_blank">{{ $t('kochi') }}</a></li>
-    <li><a href="https://stopcovid19.codeforfukuoka.org/" target="_blank">{{ $t('hukuoka') }}</a></li>
+    <li><a href="https://fukuoka.stopcovid19.jp/" target="_blank">{{ $t('hukuoka') }}</a></li>
     <li><a target="_blank">{{ $t('saga') }}</a></li>
     <li><a href="https://stopcovid19-nagasaki.netlify.com/" target="_blank">{{ $t('nagasaki') }}</a></li>
     <li><a href="https://kumamoto.stopcovid19.jp/" target="_blank">{{ $t('kumamoto') }}</a></li>
@@ -257,7 +257,7 @@ ul.jp_map a {
 }
 
 .jp_map li:nth-child(40) a {
-  background-color: #2F2A60;
+  background-color: #005BAC;
 }
 
 .jp_map li:nth-child(41) a {
@@ -591,7 +591,7 @@ ul.jp_map a {
     left: 14%;
     position: absolute;
     top: 46.5%;
-    background-color: #2F2A60;
+    background-color: #005BAC;
   }
 
   .jp_map li:nth-child(41) a {
