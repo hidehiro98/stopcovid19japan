@@ -36,16 +36,16 @@
     <li><a href="https://covid19-hiroshima.netlify.com/" target="_blank">{{ $t('hiroshima') }}</a></li>
     <li><a href="https://covid19-yamaguchi.netlify.com/" target="_blank">{{ $t('yamaguchi') }}</a></li>
     <li><a target="_blank">{{ $t('tokushima') }}</a></li>
-    <li><a href="https://covid19-kagawa.netlify.com/" target="_blank">{{ $t('kagawa') }}</a></li>
+    <li><a href="https://kagawa.stopcovid19.jp/" target="_blank">{{ $t('kagawa') }}</a></li>
     <li><a href="https://ehime-covid19.com/" target="_blank">{{ $t('ehime') }}</a></li>
     <li><a href="https://covid19-kochi.netlify.com/" target="_blank">{{ $t('kochi') }}</a></li>
     <li><a href="https://fukuoka.stopcovid19.jp/" target="_blank">{{ $t('hukuoka') }}</a></li>
     <li><a target="_blank">{{ $t('saga') }}</a></li>
-    <li><a href="https://stopcovid19-nagasaki.netlify.com/" target="_blank">{{ $t('nagasaki') }}</a></li>
+    <li><a href="https://nagasaki.stopcovid19.jp/en" target="_blank">{{ $t('nagasaki') }}</a></li>
     <li><a href="https://kumamoto.stopcovid19.jp/" target="_blank">{{ $t('kumamoto') }}</a></li>
     <li><a href="https://oita.stopcovid19.jp/" target="_blank">{{ $t('oita') }}</a></li>
     <li><a href="https://covid19-miyazaki.netlify.com/" target="_blank">{{ $t('miyazaki') }}</a></li>
-    <li><a href="https://covid19.codeforkagoshima.dev/" target="_blank">{{ $t('kagoshima') }}</a></li>
+    <li><a href="https://covid19.code4kagoshima.org/" target="_blank">{{ $t('kagoshima') }}</a></li>
     <li><a href="https://okinawa.stopcovid19.jp/" target="_blank">{{ $t('okinawa') }}</a></li>
   </ul>
 </template>
