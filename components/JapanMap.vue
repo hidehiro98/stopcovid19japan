@@ -40,7 +40,7 @@
     <li><a href="https://ehime-covid19.com/" target="_blank">{{ $t('ehime') }}</a></li>
     <li><a href="https://covid19-kochi.netlify.com/" target="_blank">{{ $t('kochi') }}</a></li>
     <li><a href="https://fukuoka.stopcovid19.jp/" target="_blank">{{ $t('hukuoka') }}</a></li>
-    <li><ahref="https://stopcovid19.code4saga.org/" target="_blank">{{ $t('saga') }}</a></li>
+    <li><a href="https://stopcovid19.code4saga.org/" target="_blank">{{ $t('saga') }}</a></li>
     <li><a href="https://nagasaki.stopcovid19.jp/" target="_blank">{{ $t('nagasaki') }}</a></li>
     <li><a href="https://kumamoto.stopcovid19.jp/" target="_blank">{{ $t('kumamoto') }}</a></li>
     <li><a href="https://oita.stopcovid19.jp/" target="_blank">{{ $t('oita') }}</a></li>
