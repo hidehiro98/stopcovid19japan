@@ -11,7 +11,7 @@
     <li><a href="https://covid19-tochigi.netlify.com/" target="_blank">{{ $t('tochigi') }}</a></li>
     <li><a href="https://stopcovid19-gunma.netlify.com/" target="_blank">{{ $t('gumma') }}</a></li>
     <li><a href="https://saitama.stopcovid19.jp/" target="_blank">{{ $t('saitama') }}</a></li>
-    <li><a href="https://chiba-covid19.mypl.net/" target="_blank">{{ $t('chiba') }}</a></li>
+    <li><a href="https://covid19.civictech.chiba.jp/" target="_blank">{{ $t('chiba') }}</a></li>
     <li><a href="https://stopcovid19.metro.tokyo.lg.jp/" target="_blank">{{ $t('tokyo') }}</a></li>
     <li><a href="https://www.pref.kanagawa.jp/osirase/1369/" target="_blank">{{ $t('kanagawa') }}</a></li>
     <li><a href="https://niigata.stopcovid19.jp/" target="_blank">{{ $t('nigata') }}</a></li>
@@ -30,7 +30,7 @@
     <li><a href="https://stop-covid19-hyogo.org/" target="_blank">{{ $t('hyogo') }}</a></li>
     <li><a href="https://stopcovid19.code4nara.org/" target="_blank">{{ $t('nara') }}</a></li>
     <li><a target="_blank">{{ $t('wakayama') }}</a></li>
-    <li><a target="_blank">{{ $t('tottori') }}</a></li>
+    <li><a href="https://tottori-covid19.netlify.com/" target="_blank">{{ $t('tottori') }}</a></li>
     <li><a href='https://shimane-covid19.netlify.com/' target="_blank">{{ $t('shimane') }}</a></li>
     <li><a href="https://okayama.stopcovid19.jp/" target="_blank">{{ $t('okayama') }}</a></li>
     <li><a href="https://covid19-hiroshima.netlify.com/" target="_blank">{{ $t('hiroshima') }}</a></li>
@@ -40,7 +40,7 @@
     <li><a href="https://ehime-covid19.com/" target="_blank">{{ $t('ehime') }}</a></li>
     <li><a href="https://covid19-kochi.netlify.com/" target="_blank">{{ $t('kochi') }}</a></li>
     <li><a href="https://fukuoka.stopcovid19.jp/" target="_blank">{{ $t('hukuoka') }}</a></li>
-    <li><a target="_blank">{{ $t('saga') }}</a></li>
+    <li><ahref="https://stopcovid19.code4saga.org/" target="_blank">{{ $t('saga') }}</a></li>
     <li><a href="https://nagasaki.stopcovid19.jp/" target="_blank">{{ $t('nagasaki') }}</a></li>
     <li><a href="https://kumamoto.stopcovid19.jp/" target="_blank">{{ $t('kumamoto') }}</a></li>
     <li><a href="https://oita.stopcovid19.jp/" target="_blank">{{ $t('oita') }}</a></li>
@@ -221,7 +221,7 @@ ul.jp_map a {
 }
 
 .jp_map li:nth-child(31) a {
-  background-color: #DDDDDD;
+  background-color: #003366;
 }
 
 .jp_map li:nth-child(32) a {
@@ -261,7 +261,7 @@ ul.jp_map a {
 }
 
 .jp_map li:nth-child(41) a {
-  background-color: #DDDDDD;
+  background-color: #009953;
 }
 
 .jp_map li:nth-child(42) a {
@@ -528,7 +528,7 @@ ul.jp_map a {
     left: 36%;
     position: absolute;
     top: 46.5%;
-    background-color: #DDDDDD;
+    background-color: #003366;
   }
 
   .jp_map li:nth-child(32) a {
@@ -598,7 +598,7 @@ ul.jp_map a {
     left: 7%;
     position: absolute;
     top: 46.5%;
-    background-color: #DDDDDD;
+    background-color: #009953;
   }
 
   .jp_map li:nth-child(42) a {
