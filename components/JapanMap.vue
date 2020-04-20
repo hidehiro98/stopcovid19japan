@@ -9,7 +9,7 @@
     <li><a href="https://fukushima-covid19.firebaseapp.com/" target="_blank">{{ $t('hukushima') }}</a></li>
     <li><a href="https://covid19-ibaraki.netlify.com/" target="_blank">{{ $t('ibaraki') }}</a></li>
     <li><a href="https://covid19-tochigi.netlify.com/" target="_blank">{{ $t('tochigi') }}</a></li>
-    <li><a href="https://stopcovid19-gunma.netlify.com/" target="_blank">{{ $t('gumma') }}</a></li>
+    <li><a href="https://stopcovid19.pref.gunma.jp/" target="_blank">{{ $t('gumma') }}</a></li>
     <li><a href="https://saitama.stopcovid19.jp/" target="_blank">{{ $t('saitama') }}</a></li>
     <li><a href="https://covid19.civictech.chiba.jp/" target="_blank">{{ $t('chiba') }}</a></li>
     <li><a href="https://stopcovid19.metro.tokyo.lg.jp/" target="_blank">{{ $t('tokyo') }}</a></li>
@@ -29,7 +29,7 @@
     <li><a href="https://covid19-osaka.info/" target="_blank">{{ $t('osaka') }}</a></li>
     <li><a href="https://stop-covid19-hyogo.org/" target="_blank">{{ $t('hyogo') }}</a></li>
     <li><a href="https://stopcovid19.code4nara.org/" target="_blank">{{ $t('nara') }}</a></li>
-    <li><a target="_blank">{{ $t('wakayama') }}</a></li>
+    <li><a href="https://stopcovid19.wakayama.jp/" target="_blank">{{ $t('wakayama') }}</a></li>
     <li><a href="https://tottori-covid19.netlify.com/" target="_blank">{{ $t('tottori') }}</a></li>
     <li><a href='https://shimane-covid19.netlify.com/' target="_blank">{{ $t('shimane') }}</a></li>
     <li><a href="https://okayama.stopcovid19.jp/" target="_blank">{{ $t('okayama') }}</a></li>
@@ -135,7 +135,7 @@ ul.jp_map a {
 }
 
 .jp_map li:nth-child(10) a {
-  background-color: #019900;
+  background-color: #391D87;
 }
 
 .jp_map li:nth-child(11) a {
@@ -217,7 +217,7 @@ ul.jp_map a {
 }
 
 .jp_map li:nth-child(30) a {
-  background-color: #DDDDDD;
+  background-color: #29437F;
 }
 
 .jp_map li:nth-child(31) a {
@@ -378,7 +378,7 @@ ul.jp_map a {
     position: absolute;
     top: 46.5%;
     left: 78%;
-    background-color: #019900;
+    background-color: #391D87;
   }
 
   .jp_map li:nth-child(11) a {
@@ -521,7 +521,7 @@ ul.jp_map a {
     left: 50%;
     position: absolute;
     top: 66.5%;
-    background-color: #DDDDDD;
+    background-color: #29437F;
   }
 
   .jp_map li:nth-child(31) a {
