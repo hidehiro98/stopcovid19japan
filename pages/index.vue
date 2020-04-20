@@ -45,7 +45,7 @@
           GitHub
         </a>
       </div>
-      <!-- <iframe style="width:120px;height:240px;margin-top:10px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hnprogramming-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=482229594X&linkId=99edec3ede2c9e2becac9eef1d1721f9&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"> -->
+      <iframe style="width:120px;height:240px;margin-top:10px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hnprogramming-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=482229594X&linkId=99edec3ede2c9e2becac9eef1d1721f9&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
     </iframe>
     </div>
   </div>
